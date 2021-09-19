@@ -2,10 +2,9 @@ hello git
 hello git
 hello git
 hello git
-hello git 22222
+hello git 2222
 hello git
 hello git
 hello git
 hello git
-/usr/bin/bash: wq: command not found
- 
+master test
